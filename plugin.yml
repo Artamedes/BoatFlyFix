@@ -1,0 +1,6 @@
+main: me.ionar.boatflyfix.Main
+name: BoatFlyFix
+version: 1.0
+author: ionar
+description: Prevents an exploit that allows you to bypass NCP's boat flying checks
+depend: [ProtocolLib]
